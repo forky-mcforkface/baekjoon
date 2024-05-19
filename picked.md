@@ -1,3 +1,12 @@
+## 2024/05/20 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [6996](https://www.acmicpc.net/problem/6996) | [애너그램](https://www.acmicpc.net/problem/6996) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [11509](https://www.acmicpc.net/problem/11509) | [풍선 맞추기](https://www.acmicpc.net/problem/11509) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [22943](https://www.acmicpc.net/problem/22943) | [수](https://www.acmicpc.net/problem/22943) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [12896](https://www.acmicpc.net/problem/12896) | [스크루지 민호](https://www.acmicpc.net/problem/12896) |
+
 ## 2024/05/19 
 
 | 난이도 | 번호 | 문제 이름 |
