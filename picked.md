@@ -1,3 +1,12 @@
+## 2024/05/22 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [14467](https://www.acmicpc.net/problem/14467) | [소가 길을 건너간 이유 1](https://www.acmicpc.net/problem/14467) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [13910](https://www.acmicpc.net/problem/13910) | [개업](https://www.acmicpc.net/problem/13910) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [6497](https://www.acmicpc.net/problem/6497) | [전력난](https://www.acmicpc.net/problem/6497) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [19236](https://www.acmicpc.net/problem/19236) | [청소년 상어](https://www.acmicpc.net/problem/19236) |
+
 ## 2024/05/21 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1084,7 +1093,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [5671](https://www.acmicpc.net/problem/5671) | [호텔 방 번호](https://www.acmicpc.net/problem/5671) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [6137](https://www.acmicpc.net/problem/6137) | [문자열 생성](https://www.acmicpc.net/problem/6137) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [15683](https://www.acmicpc.net/problem/15683) | [감시](https://www.acmicpc.net/problem/15683) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [15683](https://www.acmicpc.net/problem/15683) | [감시](https://www.acmicpc.net/problem/15683) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [2263](https://www.acmicpc.net/problem/2263) | [트리의 순회](https://www.acmicpc.net/problem/2263) |
 
 ## 2022/04/12 
@@ -3334,7 +3343,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1343](https://www.acmicpc.net/problem/1343) | [폴리오미노](https://www.acmicpc.net/problem/1343) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1469](https://www.acmicpc.net/problem/1469) | [숌 사이 수열](https://www.acmicpc.net/problem/1469) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [15683](https://www.acmicpc.net/problem/15683) | [감시](https://www.acmicpc.net/problem/15683) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [15683](https://www.acmicpc.net/problem/15683) | [감시](https://www.acmicpc.net/problem/15683) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [20442](https://www.acmicpc.net/problem/20442) | [ㅋㅋ루ㅋㅋ](https://www.acmicpc.net/problem/20442) |
 
 ## 2021/08/05 
