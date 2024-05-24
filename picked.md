@@ -1,3 +1,12 @@
+## 2024/05/25 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [20154](https://www.acmicpc.net/problem/20154) | [이 구역의 승자는 누구야?!](https://www.acmicpc.net/problem/20154) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [16401](https://www.acmicpc.net/problem/16401) | [과자 나눠주기](https://www.acmicpc.net/problem/16401) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [15661](https://www.acmicpc.net/problem/15661) | [링크와 스타트](https://www.acmicpc.net/problem/15661) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [17779](https://www.acmicpc.net/problem/17779) | [게리맨더링 2](https://www.acmicpc.net/problem/17779) |
+
 ## 2024/05/24 
 
 | 난이도 | 번호 | 문제 이름 |
