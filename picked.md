@@ -1,3 +1,12 @@
+## 2024/05/30 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [10448](https://www.acmicpc.net/problem/10448) | [유레카 이론](https://www.acmicpc.net/problem/10448) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [10164](https://www.acmicpc.net/problem/10164) | [격자상의 경로](https://www.acmicpc.net/problem/10164) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [21922](https://www.acmicpc.net/problem/21922) | [학부 연구생 민상](https://www.acmicpc.net/problem/21922) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [2933](https://www.acmicpc.net/problem/2933) | [미네랄](https://www.acmicpc.net/problem/2933) |
+
 ## 2024/05/29 
 
 | 난이도 | 번호 | 문제 이름 |
