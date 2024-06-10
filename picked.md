@@ -1,3 +1,12 @@
+## 2024/06/11 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [20944](https://www.acmicpc.net/problem/20944) | [팰린드롬 척화비](https://www.acmicpc.net/problem/20944) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14226](https://www.acmicpc.net/problem/14226) | [이모티콘](https://www.acmicpc.net/problem/14226) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [21939](https://www.acmicpc.net/problem/21939) | [문제 추천 시스템 Version 1](https://www.acmicpc.net/problem/21939) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [18234](https://www.acmicpc.net/problem/18234) | [당근 훔쳐 먹기](https://www.acmicpc.net/problem/18234) |
+
 ## 2024/06/10 
 
 | 난이도 | 번호 | 문제 이름 |
