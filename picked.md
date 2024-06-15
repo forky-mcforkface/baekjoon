@@ -1,3 +1,12 @@
+## 2024/06/16 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [18868](https://www.acmicpc.net/problem/18868) | [멀티버스 Ⅰ](https://www.acmicpc.net/problem/18868) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [6118](https://www.acmicpc.net/problem/6118) | [숨바꼭질](https://www.acmicpc.net/problem/6118) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [15961](https://www.acmicpc.net/problem/15961) | [회전 초밥](https://www.acmicpc.net/problem/15961) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [14391](https://www.acmicpc.net/problem/14391) | [종이 조각](https://www.acmicpc.net/problem/14391) |
+
 ## 2024/06/15 
 
 | 난이도 | 번호 | 문제 이름 |
