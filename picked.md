@@ -1,3 +1,12 @@
+## 2024/06/19 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [21312](https://www.acmicpc.net/problem/21312) | [홀짝 칵테일](https://www.acmicpc.net/problem/21312) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [12865](https://www.acmicpc.net/problem/12865) | [평범한 배낭](https://www.acmicpc.net/problem/12865) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20207](https://www.acmicpc.net/problem/20207) | [달력](https://www.acmicpc.net/problem/20207) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [13911](https://www.acmicpc.net/problem/13911) | [집 구하기](https://www.acmicpc.net/problem/13911) |
+
 ## 2024/06/18 
 
 | 난이도 | 번호 | 문제 이름 |
