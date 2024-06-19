@@ -1,3 +1,12 @@
+## 2024/06/20 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [18512](https://www.acmicpc.net/problem/18512) | [점프 점프](https://www.acmicpc.net/problem/18512) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15658](https://www.acmicpc.net/problem/15658) | [연산자 끼워넣기 (2)](https://www.acmicpc.net/problem/15658) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [21275](https://www.acmicpc.net/problem/21275) | [폰 호석만](https://www.acmicpc.net/problem/21275) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [3165](https://www.acmicpc.net/problem/3165) | [5](https://www.acmicpc.net/problem/3165) |
+
 ## 2024/06/19 
 
 | 난이도 | 번호 | 문제 이름 |
