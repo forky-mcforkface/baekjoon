@@ -1,3 +1,12 @@
+## 2024/06/21 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [9094](https://www.acmicpc.net/problem/9094) | [수학적 호기심](https://www.acmicpc.net/problem/9094) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [13022](https://www.acmicpc.net/problem/13022) | [늑대와 올바른 단어](https://www.acmicpc.net/problem/13022) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [22865](https://www.acmicpc.net/problem/22865) | [가장 먼 곳](https://www.acmicpc.net/problem/22865) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [8980](https://www.acmicpc.net/problem/8980) | [택배](https://www.acmicpc.net/problem/8980) |
+
 ## 2024/06/20 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1201,7 +1210,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1213](https://www.acmicpc.net/problem/1213) | [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2800](https://www.acmicpc.net/problem/2800) | [괄호 제거](https://www.acmicpc.net/problem/2800) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [17951](https://www.acmicpc.net/problem/17951) | [흩날리는 시험지 속에서 내 평점이 느껴진거야](https://www.acmicpc.net/problem/17951) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [17951](https://www.acmicpc.net/problem/17951) | [흩날리는 시험지 속에서 내 평점이 느껴진거야](https://www.acmicpc.net/problem/17951) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [16985](https://www.acmicpc.net/problem/16985) | [Maaaaaaaaaze](https://www.acmicpc.net/problem/16985) |
 
 ## 2022/04/28 
@@ -4054,7 +4063,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [21313](https://www.acmicpc.net/problem/21313) | [문어](https://www.acmicpc.net/problem/21313) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14852](https://www.acmicpc.net/problem/14852) | [타일 채우기 3](https://www.acmicpc.net/problem/14852) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [17951](https://www.acmicpc.net/problem/17951) | [흩날리는 시험지 속에서 내 평점이 느껴진거야](https://www.acmicpc.net/problem/17951) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [17951](https://www.acmicpc.net/problem/17951) | [흩날리는 시험지 속에서 내 평점이 느껴진거야](https://www.acmicpc.net/problem/17951) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1949](https://www.acmicpc.net/problem/1949) | [우수 마을](https://www.acmicpc.net/problem/1949) |
 
 ## 2021/06/15 
