@@ -1,3 +1,12 @@
+## 2024/06/29 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [2309](https://www.acmicpc.net/problem/2309) | [일곱 난쟁이](https://www.acmicpc.net/problem/2309) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [9079](https://www.acmicpc.net/problem/9079) | [동전 게임](https://www.acmicpc.net/problem/9079) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [15558](https://www.acmicpc.net/problem/15558) | [점프 게임](https://www.acmicpc.net/problem/15558) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [14570](https://www.acmicpc.net/problem/14570) | [나무 위의 구슬](https://www.acmicpc.net/problem/14570) |
+
 ## 2024/06/28 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1139,7 +1148,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2417](https://www.acmicpc.net/problem/2417) | [정수 제곱근](https://www.acmicpc.net/problem/2417) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1541](https://www.acmicpc.net/problem/1541) | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [13398](https://www.acmicpc.net/problem/13398) | [연속합 2](https://www.acmicpc.net/problem/13398) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2571](https://www.acmicpc.net/problem/2571) | [색종이 - 3](https://www.acmicpc.net/problem/2571) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2571](https://www.acmicpc.net/problem/2571) | [색종이 - 3](https://www.acmicpc.net/problem/2571) |
 
 ## 2022/05/16 
 
@@ -3407,7 +3416,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [4396](https://www.acmicpc.net/problem/4396) | [지뢰 찾기](https://www.acmicpc.net/problem/4396) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1325](https://www.acmicpc.net/problem/1325) | [효율적인 해킹](https://www.acmicpc.net/problem/1325) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2644](https://www.acmicpc.net/problem/2644) | [촌수계산](https://www.acmicpc.net/problem/2644) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2571](https://www.acmicpc.net/problem/2571) | [색종이 - 3](https://www.acmicpc.net/problem/2571) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2571](https://www.acmicpc.net/problem/2571) | [색종이 - 3](https://www.acmicpc.net/problem/2571) |
 
 ## 2021/09/03 
 
