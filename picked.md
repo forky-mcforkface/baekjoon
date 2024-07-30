@@ -1,3 +1,12 @@
+## 2024/07/31 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [10974](https://www.acmicpc.net/problem/10974) | [모든 순열](https://www.acmicpc.net/problem/10974) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [12919](https://www.acmicpc.net/problem/12919) | [A와 B 2](https://www.acmicpc.net/problem/12919) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14852](https://www.acmicpc.net/problem/14852) | [타일 채우기 3](https://www.acmicpc.net/problem/14852) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [17822](https://www.acmicpc.net/problem/17822) | [원판 돌리기](https://www.acmicpc.net/problem/17822) |
+
 ## 2024/07/30 
 
 | 난이도 | 번호 | 문제 이름 |
