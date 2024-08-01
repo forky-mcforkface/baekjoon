@@ -1,3 +1,12 @@
+## 2024/08/02 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [11170](https://www.acmicpc.net/problem/11170) | [0의 개수](https://www.acmicpc.net/problem/11170) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [14248](https://www.acmicpc.net/problem/14248) | [점프 점프](https://www.acmicpc.net/problem/14248) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [20665](https://www.acmicpc.net/problem/20665) | [독서실 거리두기](https://www.acmicpc.net/problem/20665) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [10423](https://www.acmicpc.net/problem/10423) | [전기가 부족해](https://www.acmicpc.net/problem/10423) |
+
 ## 2024/08/01 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1292,7 +1301,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2960](https://www.acmicpc.net/problem/2960) | [에라토스테네스의 체](https://www.acmicpc.net/problem/2960) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [15993](https://www.acmicpc.net/problem/15993) | [1, 2, 3 더하기 8](https://www.acmicpc.net/problem/15993) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16174](https://www.acmicpc.net/problem/16174) | [점프왕 쩰리 (Large)](https://www.acmicpc.net/problem/16174) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1943](https://www.acmicpc.net/problem/1943) | [동전 분배](https://www.acmicpc.net/problem/1943) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1943](https://www.acmicpc.net/problem/1943) | [동전 분배](https://www.acmicpc.net/problem/1943) |
 
 ## 2022/05/26 
 
@@ -1912,7 +1921,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1817](https://www.acmicpc.net/problem/1817) | [짐 챙기는 숌](https://www.acmicpc.net/problem/1817) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [12026](https://www.acmicpc.net/problem/12026) | [BOJ 거리](https://www.acmicpc.net/problem/12026) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [10713](https://www.acmicpc.net/problem/10713) | [기차 여행](https://www.acmicpc.net/problem/10713) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [10713](https://www.acmicpc.net/problem/10713) | [기차 여행](https://www.acmicpc.net/problem/10713) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [4195](https://www.acmicpc.net/problem/4195) | [친구 네트워크](https://www.acmicpc.net/problem/4195) |
 
 ## 2022/03/15 
@@ -3542,7 +3551,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [16208](https://www.acmicpc.net/problem/16208) | [귀찮음](https://www.acmicpc.net/problem/16208) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [5582](https://www.acmicpc.net/problem/5582) | [공통 부분 문자열](https://www.acmicpc.net/problem/5582) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16236](https://www.acmicpc.net/problem/16236) | [아기 상어](https://www.acmicpc.net/problem/16236) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1943](https://www.acmicpc.net/problem/1943) | [동전 분배](https://www.acmicpc.net/problem/1943) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1943](https://www.acmicpc.net/problem/1943) | [동전 분배](https://www.acmicpc.net/problem/1943) |
 
 ## 2021/09/15 
 
@@ -4549,7 +4558,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [15779](https://www.acmicpc.net/problem/15779) | [Zigzag](https://www.acmicpc.net/problem/15779) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [10427](https://www.acmicpc.net/problem/10427) | [빚](https://www.acmicpc.net/problem/10427) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [10713](https://www.acmicpc.net/problem/10713) | [기차 여행](https://www.acmicpc.net/problem/10713) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [10713](https://www.acmicpc.net/problem/10713) | [기차 여행](https://www.acmicpc.net/problem/10713) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14950](https://www.acmicpc.net/problem/14950) | [정복자](https://www.acmicpc.net/problem/14950) |
 
 ## 2021/05/26 
