@@ -1,3 +1,12 @@
+## 2024/09/11 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [11441](https://www.acmicpc.net/problem/11441) | [합 구하기](https://www.acmicpc.net/problem/11441) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [12931](https://www.acmicpc.net/problem/12931) | [두 배 더하기](https://www.acmicpc.net/problem/12931) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14863](https://www.acmicpc.net/problem/14863) | [서울에서 경산까지](https://www.acmicpc.net/problem/14863) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [16986](https://www.acmicpc.net/problem/16986) | [인싸들의 가위바위보](https://www.acmicpc.net/problem/16986) |
+
 ## 2024/09/05 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -419,7 +428,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [18512](https://www.acmicpc.net/problem/18512) | [점프 점프](https://www.acmicpc.net/problem/18512) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15658](https://www.acmicpc.net/problem/15658) | [연산자 끼워넣기 (2)](https://www.acmicpc.net/problem/15658) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [21275](https://www.acmicpc.net/problem/21275) | [폰 호석만](https://www.acmicpc.net/problem/21275) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [3165](https://www.acmicpc.net/problem/3165) | [5](https://www.acmicpc.net/problem/3165) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [3165](https://www.acmicpc.net/problem/3165) | [5](https://www.acmicpc.net/problem/3165) |
 
 ## 2024/06/19 
 
@@ -767,7 +776,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1074](https://www.acmicpc.net/problem/1074) | [Z](https://www.acmicpc.net/problem/1074) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1074](https://www.acmicpc.net/problem/1074) | [Z](https://www.acmicpc.net/problem/1074) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1080](https://www.acmicpc.net/problem/1080) | [행렬](https://www.acmicpc.net/problem/1080) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2229](https://www.acmicpc.net/problem/2229) | [조 짜기](https://www.acmicpc.net/problem/2229) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2230](https://www.acmicpc.net/problem/2230) | [수 고르기](https://www.acmicpc.net/problem/2230) |
@@ -2642,7 +2651,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [22864](https://www.acmicpc.net/problem/22864) | [피로도](https://www.acmicpc.net/problem/22864) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [22862](https://www.acmicpc.net/problem/22862) | [가장 긴 짝수 연속한 부분 수열 (large)](https://www.acmicpc.net/problem/22862) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [18769](https://www.acmicpc.net/problem/18769) | [그리드 네트워크](https://www.acmicpc.net/problem/18769) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [3165](https://www.acmicpc.net/problem/3165) | [5](https://www.acmicpc.net/problem/3165) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [3165](https://www.acmicpc.net/problem/3165) | [5](https://www.acmicpc.net/problem/3165) |
 
 ## 2022/01/04 
 
@@ -4377,7 +4386,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> | [11720](https://www.acmicpc.net/problem/11720) | [숫자의 합](https://www.acmicpc.net/problem/11720) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1074](https://www.acmicpc.net/problem/1074) | [Z](https://www.acmicpc.net/problem/1074) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1074](https://www.acmicpc.net/problem/1074) | [Z](https://www.acmicpc.net/problem/1074) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14284](https://www.acmicpc.net/problem/14284) | [간선 이어가기 2](https://www.acmicpc.net/problem/14284) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16437](https://www.acmicpc.net/problem/16437) | [양 구출 작전](https://www.acmicpc.net/problem/16437) |
 
@@ -4568,7 +4577,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [1668](https://www.acmicpc.net/problem/1668) | [트로피 진열](https://www.acmicpc.net/problem/1668) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [4963](https://www.acmicpc.net/problem/4963) | [섬의 개수](https://www.acmicpc.net/problem/4963) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [6087](https://www.acmicpc.net/problem/6087) | [레이저 통신](https://www.acmicpc.net/problem/6087) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [3165](https://www.acmicpc.net/problem/3165) | [5](https://www.acmicpc.net/problem/3165) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [3165](https://www.acmicpc.net/problem/3165) | [5](https://www.acmicpc.net/problem/3165) |
 
 ## 2021/06/04 
 
