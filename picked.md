@@ -1,3 +1,12 @@
+## 2024/10/16 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [9613](https://www.acmicpc.net/problem/9613) | [GCD 합](https://www.acmicpc.net/problem/9613) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11660](https://www.acmicpc.net/problem/11660) | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [9251](https://www.acmicpc.net/problem/9251) | [LCS](https://www.acmicpc.net/problem/9251) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [2307](https://www.acmicpc.net/problem/2307) | [도로검문](https://www.acmicpc.net/problem/2307) |
+
 ## 2024/10/05 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1587,7 +1596,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1920](https://www.acmicpc.net/problem/1920) | [수 찾기](https://www.acmicpc.net/problem/1920) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1660](https://www.acmicpc.net/problem/1660) | [캡틴 이다솜](https://www.acmicpc.net/problem/1660) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1660](https://www.acmicpc.net/problem/1660) | [캡틴 이다솜](https://www.acmicpc.net/problem/1660) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [6068](https://www.acmicpc.net/problem/6068) | [시간 관리하기](https://www.acmicpc.net/problem/6068) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [20366](https://www.acmicpc.net/problem/20366) | [같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366) |
 
@@ -2315,7 +2324,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [4096](https://www.acmicpc.net/problem/4096) | [팰린드로미터](https://www.acmicpc.net/problem/4096) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [4096](https://www.acmicpc.net/problem/4096) | [팰린드로미터](https://www.acmicpc.net/problem/4096) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11687](https://www.acmicpc.net/problem/11687) | [팩토리얼 0의 개수](https://www.acmicpc.net/problem/11687) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [20924](https://www.acmicpc.net/problem/20924) | [트리의 기둥과 가지](https://www.acmicpc.net/problem/20924) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [13459](https://www.acmicpc.net/problem/13459) | [구슬 탈출](https://www.acmicpc.net/problem/13459) |
@@ -3621,7 +3630,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [19939](https://www.acmicpc.net/problem/19939) | [박 터뜨리기](https://www.acmicpc.net/problem/19939) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1660](https://www.acmicpc.net/problem/1660) | [캡틴 이다솜](https://www.acmicpc.net/problem/1660) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1660](https://www.acmicpc.net/problem/1660) | [캡틴 이다솜](https://www.acmicpc.net/problem/1660) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [17140](https://www.acmicpc.net/problem/17140) | [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1516](https://www.acmicpc.net/problem/1516) | [게임 개발](https://www.acmicpc.net/problem/1516) |
 
@@ -4223,7 +4232,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [4096](https://www.acmicpc.net/problem/4096) | [팰린드로미터](https://www.acmicpc.net/problem/4096) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [4096](https://www.acmicpc.net/problem/4096) | [팰린드로미터](https://www.acmicpc.net/problem/4096) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [10844](https://www.acmicpc.net/problem/10844) | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14921](https://www.acmicpc.net/problem/14921) | [용액 합성하기](https://www.acmicpc.net/problem/14921) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [2637](https://www.acmicpc.net/problem/2637) | [장난감 조립](https://www.acmicpc.net/problem/2637) |
