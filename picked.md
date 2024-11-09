@@ -1,3 +1,12 @@
+## 2024/11/10 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1817](https://www.acmicpc.net/problem/1817) | [짐 챙기는 숌](https://www.acmicpc.net/problem/1817) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [18232](https://www.acmicpc.net/problem/18232) | [텔레포트 정거장](https://www.acmicpc.net/problem/18232) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [11265](https://www.acmicpc.net/problem/11265) | [끝나지 않는 파티](https://www.acmicpc.net/problem/11265) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [22859](https://www.acmicpc.net/problem/22859) | [HTML 파싱](https://www.acmicpc.net/problem/22859) |
+
 ## 2024/11/09 
 
 | 난이도 | 번호 | 문제 이름 |
