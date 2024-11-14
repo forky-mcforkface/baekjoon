@@ -1,3 +1,12 @@
+## 2024/11/15 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [4446](https://www.acmicpc.net/problem/4446) | [ROT13](https://www.acmicpc.net/problem/4446) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [18113](https://www.acmicpc.net/problem/18113) | [그르다 김가놈](https://www.acmicpc.net/problem/18113) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [15993](https://www.acmicpc.net/problem/15993) | [1, 2, 3 더하기 8](https://www.acmicpc.net/problem/15993) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [2637](https://www.acmicpc.net/problem/2637) | [장난감 조립](https://www.acmicpc.net/problem/2637) |
+
 ## 2024/11/14 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -878,7 +887,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [9655](https://www.acmicpc.net/problem/9655) | [돌 게임](https://www.acmicpc.net/problem/9655) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1174](https://www.acmicpc.net/problem/1174) | [줄어드는 수](https://www.acmicpc.net/problem/1174) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [10282](https://www.acmicpc.net/problem/10282) | [해킹](https://www.acmicpc.net/problem/10282) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [14595](https://www.acmicpc.net/problem/14595) | [동방 프로젝트 (Large)](https://www.acmicpc.net/problem/14595) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14595](https://www.acmicpc.net/problem/14595) | [동방 프로젝트 (Large)](https://www.acmicpc.net/problem/14595) |
 
 ## 2024/05/30 
 
@@ -2399,7 +2408,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [19844](https://www.acmicpc.net/problem/19844) | [단어 개수 세기](https://www.acmicpc.net/problem/19844) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [5569](https://www.acmicpc.net/problem/5569) | [출근 경로](https://www.acmicpc.net/problem/5569) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [9024](https://www.acmicpc.net/problem/9024) | [두 수의 합](https://www.acmicpc.net/problem/9024) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [14595](https://www.acmicpc.net/problem/14595) | [동방 프로젝트 (Large)](https://www.acmicpc.net/problem/14595) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14595](https://www.acmicpc.net/problem/14595) | [동방 프로젝트 (Large)](https://www.acmicpc.net/problem/14595) |
 
 ## 2022/03/04 
 
@@ -5171,7 +5180,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [20154](https://www.acmicpc.net/problem/20154) | [이 구역의 승자는 누구야?!](https://www.acmicpc.net/problem/20154) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2293](https://www.acmicpc.net/problem/2293) | [동전 1](https://www.acmicpc.net/problem/2293) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [21276](https://www.acmicpc.net/problem/21276) | [계보 복원가 호석](https://www.acmicpc.net/problem/21276) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [14595](https://www.acmicpc.net/problem/14595) | [동방 프로젝트 (Large)](https://www.acmicpc.net/problem/14595) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14595](https://www.acmicpc.net/problem/14595) | [동방 프로젝트 (Large)](https://www.acmicpc.net/problem/14595) |
 
 ## 2021/04/30 
 
