@@ -1,3 +1,12 @@
+## 2024/11/26 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [2121](https://www.acmicpc.net/problem/2121) | [넷이 놀기](https://www.acmicpc.net/problem/2121) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16198](https://www.acmicpc.net/problem/16198) | [에너지 모으기](https://www.acmicpc.net/problem/16198) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [11657](https://www.acmicpc.net/problem/11657) | [타임머신](https://www.acmicpc.net/problem/11657) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1918](https://www.acmicpc.net/problem/1918) | [후위 표기식](https://www.acmicpc.net/problem/1918) |
+
 ## 2024/11/25 
 
 | 난이도 | 번호 | 문제 이름 |
