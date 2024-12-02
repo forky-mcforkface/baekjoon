@@ -1,3 +1,12 @@
+## 2024/12/03 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1018](https://www.acmicpc.net/problem/1018) | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [17123](https://www.acmicpc.net/problem/17123) | [배열 놀이](https://www.acmicpc.net/problem/17123) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16948](https://www.acmicpc.net/problem/16948) | [데스 나이트](https://www.acmicpc.net/problem/16948) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [22860](https://www.acmicpc.net/problem/22860) | [폴더 정리 (small)](https://www.acmicpc.net/problem/22860) |
+
 ## 2024/12/02 
 
 | 난이도 | 번호 | 문제 이름 |
