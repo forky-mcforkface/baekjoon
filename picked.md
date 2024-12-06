@@ -1,3 +1,12 @@
+## 2024/12/07 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1158](https://www.acmicpc.net/problem/1158) | [요세푸스 문제](https://www.acmicpc.net/problem/1158) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [3187](https://www.acmicpc.net/problem/3187) | [양치기 꿍](https://www.acmicpc.net/problem/3187) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20164](https://www.acmicpc.net/problem/20164) | [홀수 홀릭 호석](https://www.acmicpc.net/problem/20164) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1135](https://www.acmicpc.net/problem/1135) | [뉴스 전하기](https://www.acmicpc.net/problem/1135) |
+
 ## 2024/12/06 
 
 | 난이도 | 번호 | 문제 이름 |
