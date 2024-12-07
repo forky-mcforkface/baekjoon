@@ -1,3 +1,12 @@
+## 2024/12/08 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1244](https://www.acmicpc.net/problem/1244) | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [3184](https://www.acmicpc.net/problem/3184) | [양](https://www.acmicpc.net/problem/3184) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [21941](https://www.acmicpc.net/problem/21941) | [문자열 제거](https://www.acmicpc.net/problem/21941) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [22944](https://www.acmicpc.net/problem/22944) | [죽음의 비](https://www.acmicpc.net/problem/22944) |
+
 ## 2024/12/07 
 
 | 난이도 | 번호 | 문제 이름 |
