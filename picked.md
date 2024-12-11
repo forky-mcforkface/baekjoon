@@ -1,3 +1,12 @@
+## 2024/12/12 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1359](https://www.acmicpc.net/problem/1359) | [복권](https://www.acmicpc.net/problem/1359) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [15918](https://www.acmicpc.net/problem/15918) | [랭퍼든 수열쟁이야!!](https://www.acmicpc.net/problem/15918) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [13422](https://www.acmicpc.net/problem/13422) | [도둑](https://www.acmicpc.net/problem/13422) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [17951](https://www.acmicpc.net/problem/17951) | [흩날리는 시험지 속에서 내 평점이 느껴진거야](https://www.acmicpc.net/problem/17951) |
+
 ## 2024/12/11 
 
 | 난이도 | 번호 | 문제 이름 |
