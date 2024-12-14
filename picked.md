@@ -1,3 +1,12 @@
+## 2024/12/15 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1620](https://www.acmicpc.net/problem/1620) | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15810](https://www.acmicpc.net/problem/15810) | [풍선 공장](https://www.acmicpc.net/problem/15810) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20055](https://www.acmicpc.net/problem/20055) | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [20210](https://www.acmicpc.net/problem/20210) | [파일 탐색기](https://www.acmicpc.net/problem/20210) |
+
 ## 2024/12/14 
 
 | 난이도 | 번호 | 문제 이름 |
