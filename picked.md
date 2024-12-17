@@ -1,3 +1,12 @@
+## 2024/12/18 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1764](https://www.acmicpc.net/problem/1764) | [듣보잡](https://www.acmicpc.net/problem/1764) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [13424](https://www.acmicpc.net/problem/13424) | [비밀 모임](https://www.acmicpc.net/problem/13424) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [15831](https://www.acmicpc.net/problem/15831) | [준표의 조약돌](https://www.acmicpc.net/problem/15831) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [20057](https://www.acmicpc.net/problem/20057) | [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) |
+
 ## 2024/12/17 
 
 | 난이도 | 번호 | 문제 이름 |
