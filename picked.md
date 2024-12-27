@@ -1,3 +1,12 @@
+## 2024/12/28 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2417](https://www.acmicpc.net/problem/2417) | [정수 제곱근](https://www.acmicpc.net/problem/2417) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2512](https://www.acmicpc.net/problem/2512) | [예산](https://www.acmicpc.net/problem/2512) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1956](https://www.acmicpc.net/problem/1956) | [운동](https://www.acmicpc.net/problem/1956) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16947](https://www.acmicpc.net/problem/16947) | [서울 지하철 2호선](https://www.acmicpc.net/problem/16947) |
+
 ## 2024/12/27 
 
 | 난이도 | 번호 | 문제 이름 |
