@@ -1,3 +1,12 @@
+## 2024/12/29 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2422](https://www.acmicpc.net/problem/2422) | [한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1965](https://www.acmicpc.net/problem/1965) | [상자넣기](https://www.acmicpc.net/problem/1965) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2304](https://www.acmicpc.net/problem/2304) | [창고 다각형](https://www.acmicpc.net/problem/2304) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16438](https://www.acmicpc.net/problem/16438) | [원숭이 스포츠](https://www.acmicpc.net/problem/16438) |
+
 ## 2024/12/28 
 
 | 난이도 | 번호 | 문제 이름 |
