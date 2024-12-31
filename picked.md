@@ -1,3 +1,12 @@
+## 2025/01/01 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10546](https://www.acmicpc.net/problem/10546) | [배부른 마라토너](https://www.acmicpc.net/problem/10546) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2168](https://www.acmicpc.net/problem/2168) | [타일 위의 대각선](https://www.acmicpc.net/problem/2168) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [13975](https://www.acmicpc.net/problem/13975) | [파일 합치기 3](https://www.acmicpc.net/problem/13975) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16236](https://www.acmicpc.net/problem/16236) | [아기 상어](https://www.acmicpc.net/problem/16236) |
+
 ## 2024/12/31 
 
 | 난이도 | 번호 | 문제 이름 |
