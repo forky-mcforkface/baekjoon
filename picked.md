@@ -1,3 +1,12 @@
+## 2025/01/03 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2578](https://www.acmicpc.net/problem/2578) | [빙고](https://www.acmicpc.net/problem/2578) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1780](https://www.acmicpc.net/problem/1780) | [종이의 개수](https://www.acmicpc.net/problem/1780) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1991](https://www.acmicpc.net/problem/1991) | [트리 순회](https://www.acmicpc.net/problem/1991) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [15684](https://www.acmicpc.net/problem/15684) | [사다리 조작](https://www.acmicpc.net/problem/15684) |
+
 ## 2025/01/02 
 
 | 난이도 | 번호 | 문제 이름 |
