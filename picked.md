@@ -1,3 +1,12 @@
+## 2025/01/10 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [4096](https://www.acmicpc.net/problem/4096) | [팰린드로미터](https://www.acmicpc.net/problem/4096) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1527](https://www.acmicpc.net/problem/1527) | [금민수의 개수](https://www.acmicpc.net/problem/1527) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14728](https://www.acmicpc.net/problem/14728) | [벼락치기](https://www.acmicpc.net/problem/14728) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2629](https://www.acmicpc.net/problem/2629) | [양팔저울](https://www.acmicpc.net/problem/2629) |
+
 ## 2025/01/09 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -779,7 +788,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [1259](https://www.acmicpc.net/problem/1259) | [팰린드롬수](https://www.acmicpc.net/problem/1259) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [20922](https://www.acmicpc.net/problem/20922) | [겹치는 건 싫어](https://www.acmicpc.net/problem/20922) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [16400](https://www.acmicpc.net/problem/16400) | [소수 화폐](https://www.acmicpc.net/problem/16400) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [19581](https://www.acmicpc.net/problem/19581) | [두 번째 트리의 지름](https://www.acmicpc.net/problem/19581) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> | [19581](https://www.acmicpc.net/problem/19581) | [두 번째 트리의 지름](https://www.acmicpc.net/problem/19581) |
 
 ## 2024/09/11 
 
@@ -3245,7 +3254,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [11256](https://www.acmicpc.net/problem/11256) | [사탕](https://www.acmicpc.net/problem/11256) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15663](https://www.acmicpc.net/problem/15663) | [N과 M (9)](https://www.acmicpc.net/problem/15663) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [3980](https://www.acmicpc.net/problem/3980) | [선발 명단](https://www.acmicpc.net/problem/3980) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [19581](https://www.acmicpc.net/problem/19581) | [두 번째 트리의 지름](https://www.acmicpc.net/problem/19581) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> | [19581](https://www.acmicpc.net/problem/19581) | [두 번째 트리의 지름](https://www.acmicpc.net/problem/19581) |
 
 ## 2022/01/25 
 
@@ -5405,7 +5414,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [1152](https://www.acmicpc.net/problem/1152) | [단어의 개수](https://www.acmicpc.net/problem/1152) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [10819](https://www.acmicpc.net/problem/10819) | [차이를 최대로](https://www.acmicpc.net/problem/10819) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [19238](https://www.acmicpc.net/problem/19238) | [스타트 택시](https://www.acmicpc.net/problem/19238) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [19581](https://www.acmicpc.net/problem/19581) | [두 번째 트리의 지름](https://www.acmicpc.net/problem/19581) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> | [19581](https://www.acmicpc.net/problem/19581) | [두 번째 트리의 지름](https://www.acmicpc.net/problem/19581) |
 
 ## 2021/05/30 
 
