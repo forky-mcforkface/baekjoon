@@ -1,3 +1,12 @@
+## 2025/01/14 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [5534](https://www.acmicpc.net/problem/5534) | [간판](https://www.acmicpc.net/problem/5534) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1474](https://www.acmicpc.net/problem/1474) | [밑 줄](https://www.acmicpc.net/problem/1474) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [16398](https://www.acmicpc.net/problem/16398) | [행성 연결](https://www.acmicpc.net/problem/16398) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2473](https://www.acmicpc.net/problem/2473) | [세 용액](https://www.acmicpc.net/problem/2473) |
+
 ## 2025/01/13 
 
 | 난이도 | 번호 | 문제 이름 |
