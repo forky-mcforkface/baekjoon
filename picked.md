@@ -1,3 +1,12 @@
+## 2025/01/22 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [17521](https://www.acmicpc.net/problem/17521) | [Byte Coin](https://www.acmicpc.net/problem/17521) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1342](https://www.acmicpc.net/problem/1342) | [행운의 문자열](https://www.acmicpc.net/problem/1342) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14722](https://www.acmicpc.net/problem/14722) | [우유 도시](https://www.acmicpc.net/problem/14722) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2143](https://www.acmicpc.net/problem/2143) | [두 배열의 합](https://www.acmicpc.net/problem/2143) |
+
 ## 2025/01/21 
 
 | 난이도 | 번호 | 문제 이름 |
