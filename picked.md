@@ -1,3 +1,12 @@
+## 2025/01/24 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10845](https://www.acmicpc.net/problem/10845) | [큐](https://www.acmicpc.net/problem/10845) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [20116](https://www.acmicpc.net/problem/20116) | [상자의 균형](https://www.acmicpc.net/problem/20116) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1303](https://www.acmicpc.net/problem/1303) | [전쟁 - 전투](https://www.acmicpc.net/problem/1303) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2058](https://www.acmicpc.net/problem/2058) | [원자의 에너지](https://www.acmicpc.net/problem/2058) |
+
 ## 2025/01/23 
 
 | 난이도 | 번호 | 문제 이름 |
