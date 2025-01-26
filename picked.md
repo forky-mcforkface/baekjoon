@@ -1,3 +1,12 @@
+## 2025/01/27 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10994](https://www.acmicpc.net/problem/10994) | [별 찍기 - 19](https://www.acmicpc.net/problem/10994) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17451](https://www.acmicpc.net/problem/17451) | [평행 우주](https://www.acmicpc.net/problem/17451) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17845](https://www.acmicpc.net/problem/17845) | [수강 과목](https://www.acmicpc.net/problem/17845) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1937](https://www.acmicpc.net/problem/1937) | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) |
+
 ## 2025/01/26 
 
 | 난이도 | 번호 | 문제 이름 |
