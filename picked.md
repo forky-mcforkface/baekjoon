@@ -1,3 +1,12 @@
+## 2025/01/30 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [14594](https://www.acmicpc.net/problem/14594) | [동방 프로젝트 (Small)](https://www.acmicpc.net/problem/14594) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1189](https://www.acmicpc.net/problem/1189) | [컴백홈](https://www.acmicpc.net/problem/1189) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17396](https://www.acmicpc.net/problem/17396) | [백도어](https://www.acmicpc.net/problem/17396) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1774](https://www.acmicpc.net/problem/1774) | [우주신과의 교감](https://www.acmicpc.net/problem/1774) |
+
 ## 2025/01/29 
 
 | 난이도 | 번호 | 문제 이름 |
