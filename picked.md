@@ -1,3 +1,12 @@
+## 2025/02/02 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [20551](https://www.acmicpc.net/problem/20551) | [Sort 마스터 배지훈의 후계자](https://www.acmicpc.net/problem/20551) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17390](https://www.acmicpc.net/problem/17390) | [이건 꼭 풀어야 해!](https://www.acmicpc.net/problem/17390) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [16935](https://www.acmicpc.net/problem/16935) | [배열 돌리기 3](https://www.acmicpc.net/problem/16935) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1695](https://www.acmicpc.net/problem/1695) | [팰린드롬 만들기](https://www.acmicpc.net/problem/1695) |
+
 ## 2025/02/01 
 
 | 난이도 | 번호 | 문제 이름 |
