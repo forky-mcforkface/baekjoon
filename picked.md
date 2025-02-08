@@ -1,3 +1,12 @@
+## 2025/02/09 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [18258](https://www.acmicpc.net/problem/18258) | [큐 2](https://www.acmicpc.net/problem/18258) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [16508](https://www.acmicpc.net/problem/16508) | [전공책](https://www.acmicpc.net/problem/16508) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [16922](https://www.acmicpc.net/problem/16922) | [로마 숫자 만들기](https://www.acmicpc.net/problem/16922) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1301](https://www.acmicpc.net/problem/1301) | [비즈 공예](https://www.acmicpc.net/problem/1301) |
+
 ## 2025/02/08 
 
 | 난이도 | 번호 | 문제 이름 |
