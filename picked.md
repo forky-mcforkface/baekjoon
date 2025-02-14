@@ -1,3 +1,12 @@
+## 2025/02/15 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1072](https://www.acmicpc.net/problem/1072) | [게임](https://www.acmicpc.net/problem/1072) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [3020](https://www.acmicpc.net/problem/3020) | [개똥벌레](https://www.acmicpc.net/problem/3020) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [3079](https://www.acmicpc.net/problem/3079) | [입국심사](https://www.acmicpc.net/problem/3079) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1005](https://www.acmicpc.net/problem/1005) | [ACM Craft](https://www.acmicpc.net/problem/1005) |
+
 ## 2025/02/14 
 
 | 난이도 | 번호 | 문제 이름 |
