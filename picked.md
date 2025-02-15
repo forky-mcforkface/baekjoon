@@ -1,3 +1,12 @@
+## 2025/02/16 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1166](https://www.acmicpc.net/problem/1166) | [선물](https://www.acmicpc.net/problem/1166) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [15652](https://www.acmicpc.net/problem/15652) | [N과 M (4)](https://www.acmicpc.net/problem/15652) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2671](https://www.acmicpc.net/problem/2671) | [잠수함식별](https://www.acmicpc.net/problem/2671) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [18223](https://www.acmicpc.net/problem/18223) | [민준이와 마산 그리고 건우](https://www.acmicpc.net/problem/18223) |
+
 ## 2025/02/15 
 
 | 난이도 | 번호 | 문제 이름 |
