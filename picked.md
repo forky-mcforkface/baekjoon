@@ -1,3 +1,12 @@
+## 2025/02/18 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [11726](https://www.acmicpc.net/problem/11726) | [2×n 타일링](https://www.acmicpc.net/problem/11726) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [11727](https://www.acmicpc.net/problem/11727) | [2×n 타일링 2](https://www.acmicpc.net/problem/11727) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [15650](https://www.acmicpc.net/problem/15650) | [N과 M (2)](https://www.acmicpc.net/problem/15650) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [17406](https://www.acmicpc.net/problem/17406) | [배열 돌리기 4](https://www.acmicpc.net/problem/17406) |
+
 ## 2025/02/17 
 
 | 난이도 | 번호 | 문제 이름 |
