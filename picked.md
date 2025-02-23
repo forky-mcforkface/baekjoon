@@ -1,3 +1,12 @@
+## 2025/02/24 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [2075](https://www.acmicpc.net/problem/2075) | [N번째 큰 수](https://www.acmicpc.net/problem/2075) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [2852](https://www.acmicpc.net/problem/2852) | [NBA 농구](https://www.acmicpc.net/problem/2852) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [16472](https://www.acmicpc.net/problem/16472) | [고냥이](https://www.acmicpc.net/problem/16472) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [17141](https://www.acmicpc.net/problem/17141) | [연구소 2](https://www.acmicpc.net/problem/17141) |
+
 ## 2025/02/23 
 
 | 난이도 | 번호 | 문제 이름 |
