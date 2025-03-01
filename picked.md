@@ -1,3 +1,12 @@
+## 2025/03/02 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1092](https://www.acmicpc.net/problem/1092) | [배](https://www.acmicpc.net/problem/1092) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2467](https://www.acmicpc.net/problem/2467) | [용액](https://www.acmicpc.net/problem/2467) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2800](https://www.acmicpc.net/problem/2800) | [괄호 제거](https://www.acmicpc.net/problem/2800) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2922](https://www.acmicpc.net/problem/2922) | [즐거운 단어](https://www.acmicpc.net/problem/2922) |
+
 ## 2025/03/01 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1444,7 +1453,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [22864](https://www.acmicpc.net/problem/22864) | [피로도](https://www.acmicpc.net/problem/22864) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [15686](https://www.acmicpc.net/problem/15686) | [치킨 배달](https://www.acmicpc.net/problem/15686) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [9489](https://www.acmicpc.net/problem/9489) | [사촌](https://www.acmicpc.net/problem/9489) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [9489](https://www.acmicpc.net/problem/9489) | [사촌](https://www.acmicpc.net/problem/9489) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [21277](https://www.acmicpc.net/problem/21277) | [짠돌이 호석](https://www.acmicpc.net/problem/21277) |
 
 ## 2024/07/21 
@@ -3838,7 +3847,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [1668](https://www.acmicpc.net/problem/1668) | [트로피 진열](https://www.acmicpc.net/problem/1668) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [20365](https://www.acmicpc.net/problem/20365) | [블로그2](https://www.acmicpc.net/problem/20365) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [9489](https://www.acmicpc.net/problem/9489) | [사촌](https://www.acmicpc.net/problem/9489) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [9489](https://www.acmicpc.net/problem/9489) | [사촌](https://www.acmicpc.net/problem/9489) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [3687](https://www.acmicpc.net/problem/3687) | [성냥개비](https://www.acmicpc.net/problem/3687) |
 
 ## 2022/01/10 
@@ -5268,7 +5277,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1316](https://www.acmicpc.net/problem/1316) | [그룹 단어 체커](https://www.acmicpc.net/problem/1316) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [9489](https://www.acmicpc.net/problem/9489) | [사촌](https://www.acmicpc.net/problem/9489) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [9489](https://www.acmicpc.net/problem/9489) | [사촌](https://www.acmicpc.net/problem/9489) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [11404](https://www.acmicpc.net/problem/11404) | [플로이드](https://www.acmicpc.net/problem/11404) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [21277](https://www.acmicpc.net/problem/21277) | [짠돌이 호석](https://www.acmicpc.net/problem/21277) |
 
