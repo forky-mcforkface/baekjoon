@@ -1,3 +1,12 @@
+## 2025/03/11 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1916](https://www.acmicpc.net/problem/1916) | [최소비용 구하기](https://www.acmicpc.net/problem/1916) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2293](https://www.acmicpc.net/problem/2293) | [동전 1](https://www.acmicpc.net/problem/2293) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2374](https://www.acmicpc.net/problem/2374) | [같은 수로 만들기](https://www.acmicpc.net/problem/2374) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2411](https://www.acmicpc.net/problem/2411) | [아이템 먹기](https://www.acmicpc.net/problem/2411) |
+
 ## 2025/03/10 
 
 | 난이도 | 번호 | 문제 이름 |
