@@ -1,3 +1,12 @@
+## 2025/03/20 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [10815](https://www.acmicpc.net/problem/10815) | [숫자 카드](https://www.acmicpc.net/problem/10815) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [22869](https://www.acmicpc.net/problem/22869) | [징검다리 건너기 (small)](https://www.acmicpc.net/problem/22869) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [5427](https://www.acmicpc.net/problem/5427) | [불](https://www.acmicpc.net/problem/5427) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [13459](https://www.acmicpc.net/problem/13459) | [구슬 탈출](https://www.acmicpc.net/problem/13459) |
+
 ## 2025/03/19 
 
 | 난이도 | 번호 | 문제 이름 |
